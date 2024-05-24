@@ -1,0 +1,56 @@
+body {
+    background-color: #fff6a0;
+}
+.card {
+    margin: 10px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+main{
+    padding-top: 20px;
+}
+
+/* СТИЛИ ДЛЯ INDEX */
+.container{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-info{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.main-info-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-dog-img{
+    max-width: 100%;
+}
+
+.main-h2{
+    font-size: 48px;
+}
+
+.main-info-kink{
+    font-size: 24px;
+}
+/*-------------------------*/
+
+.h1-products{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.h2-products{
+    text-align: center;
+}
